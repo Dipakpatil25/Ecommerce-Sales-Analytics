@@ -28,7 +28,7 @@ It follows an end-to-end data analytics workflow using Python for data generatio
 
 ## 📊 Dataset Information
 
-The project contains five datasets representing different aspects of an e-commerce business. 
+The project contains five datasets representing different aspects of an e-commerce business.
 
 | Dataset           |     Records |
 | ----------------- | ----------: |
@@ -39,4 +39,4 @@ The project contains five datasets representing different aspects of an e-commer
 | Order Items       |     300,000 |
 | **Total Records** | **427,010** |
 
-**Data Period:** January 2025 – December 202
+**Data Period:** January 2025 – December 2025

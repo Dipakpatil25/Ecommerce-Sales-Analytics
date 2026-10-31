@@ -40,3 +40,6 @@ The project contains five datasets representing different aspects of an e-commer
 | **Total Records** | **427,010** |
 
 **Data Period:** January 2025 – December 2025
+## 🖼️ Dashboard Preview
+
+![E-commerce Sales Dashboard](./Dashboard.png)

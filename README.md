@@ -28,7 +28,7 @@ It follows an end-to-end data analytics workflow using Python for data generatio
 
 ## 📊 Dataset Information
 
-The project contains five datasets representing different aspects of an e-commerce business.
+The project contains five datasets representing different aspects of an e-commerce business. 
 
 | Dataset           |     Records |
 | ----------------- | ----------: |
